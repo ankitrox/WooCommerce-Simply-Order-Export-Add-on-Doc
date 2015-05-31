@@ -1,9 +1,11 @@
 # WooCommerce Simply Order Export Add-on Documentation
-This contains documentation for WooCommerce Simply Order Export Add-on. This can be used as reference for usability of plugin.
+This contains documentation for WooCommerce Simply Order Export Add-on. This can be used as reference for usability of plugin. To purchase the plugin [follow this link](http://sharethingz.com/woocommerce-simply-order-export-add-on/)
 
 [1. Installation](#installation)
 
 [2. Fields added by plugin](#fields-added)
+
+[3. How to reorder fields](#reorder-added)
 
 #### <a name="installation"></a>Installation
 
@@ -44,3 +46,14 @@ This contains documentation for WooCommerce Simply Order Export Add-on. This can
 * Transaction ID
 * Coupon Codes
 * Coupon Discount Amount
+
+#### <a name="reorder-added"></a> Reordering of fields.
+
+![Reordering of fields]
+(sharethingz.com/wp-content/uploads/edd/2015/05/Reorder-Fields.png)
+
+* Section for reordering is present at ** Woocommerce => Settings => Order Export => Advanced options => Reorder Fields **
+* When no field is selected reorder section would not appear.
+* When new field is marked as checked in list, that field would get added in last in reordering queue.
+* When any field is marked as unchecked from list, that field would also get removed from reordering queue.
+* You can reorder the fields by dragging, once all the fields are reordered click "Save" button.
