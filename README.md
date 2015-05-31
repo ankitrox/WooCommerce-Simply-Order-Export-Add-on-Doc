@@ -52,7 +52,7 @@ This contains documentation for WooCommerce Simply Order Export Add-on. This can
 ![Reordering of fields]
 (http://sharethingz.com/wp-content/uploads/edd/2015/05/Reorder-Fields.png)
 
-* Section for reordering is present at ** Woocommerce => Settings => Order Export => Advanced options => Reorder Fields **
+* Section for reordering is present at **Woocommerce => Settings => Order Export => Advanced options => Reorder Fields**
 * When no field is selected reorder section would not appear.
 * When new field is marked as checked in list, that field would get added in last in reordering queue.
 * When any field is marked as unchecked from list, that field would also get removed from reordering queue.
