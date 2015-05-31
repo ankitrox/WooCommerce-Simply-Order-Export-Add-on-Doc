@@ -50,7 +50,7 @@ This contains documentation for WooCommerce Simply Order Export Add-on. This can
 #### <a name="reorder-added"></a> Reordering of fields.
 
 ![Reordering of fields]
-(sharethingz.com/wp-content/uploads/edd/2015/05/Reorder-Fields.png)
+(http://sharethingz.com/wp-content/uploads/edd/2015/05/Reorder-Fields.png)
 
 * Section for reordering is present at ** Woocommerce => Settings => Order Export => Advanced options => Reorder Fields **
 * When no field is selected reorder section would not appear.
