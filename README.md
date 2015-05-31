@@ -2,6 +2,7 @@
 This contains documentation for WooCommerce Simply Order Export Add-on. This can be used as reference for usability of plugin.
 
 [1. Installation](#installation)
+
 [2. Fields added by plugin](#fields-added)
 
 #### <a name="installation"></a>Installation
