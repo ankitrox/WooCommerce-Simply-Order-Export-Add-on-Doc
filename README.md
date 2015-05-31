@@ -21,7 +21,7 @@ This contains documentation for WooCommerce Simply Order Export Add-on. This can
 * Select zip file you downloaded and click "Install Now"
 * Click "Activate plugin"
 
-#### <a name="fields-added"></a> Fields added by this plugin.
+#### <a name="fields-added"></a> Fields added by this plugin
 
 * Payment Mehod
 * Order Currency
@@ -55,7 +55,7 @@ This contains documentation for WooCommerce Simply Order Export Add-on. This can
 * Coupon Codes
 * Coupon Discount Amount
 
-#### <a name="reorder-added"></a> Reordering of fields.
+#### <a name="reorder-added"></a> Reordering of fields
 
 ![Reordering of fields]
 (http://sharethingz.com/wp-content/uploads/edd/2015/05/Reorder-Fields.png)
@@ -73,7 +73,7 @@ This contains documentation for WooCommerce Simply Order Export Add-on. This can
 
 To receive automatic update notification of this plugin, please go to *Woocommerce => Settings => Order Export => Advanced options => Reorder Fields*, enter your email address which you used at the time of purchase of this plugin.
 
-#### <a name="faq"></a> Frequently asked questions.
+#### <a name="faq"></a> Frequently asked questions
 
 1. **I have purchased plugn, made the payment, but haven't received any email for download. What to do now?**
 
@@ -91,11 +91,12 @@ It is planned to setup support forum on [ShareThingz](http://sharethingz.com), t
 * Switch to default wordpress theme, check if issue still persists.
 * If issue still persists, contact at [ShareThingz facebook page](http://facebook.com/shrthngz)
 
-#### <a name="refund"></a> Refund policy.
+#### <a name="refund"></a> Refund policy
 
 No Refund.
 
-#### <a name="contribute"></a> Your contribution.
+
+#### <a name="contribute"></a> How you contribute by purchasing this plugin!
 
 ![Akshay Patra]
 (http://www.akshayapatra.org/apadmin/uploads/settings/logo.png)
