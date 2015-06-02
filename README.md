@@ -112,6 +112,9 @@ For every purchase of copy of this plugin, $1 will be donated to [Akshaya Patra 
 
 So, indirectly you are also contributing to feed a child with purchase of this plugin. This donation will be sent to the organization last day of every month depending on number of copies sold. So, if 100 copies of this plugin got sold, then $100 will be donated to the organization. :)
 
->
-> ->![Buy Now](http://sharethingz.com/wp-content/uploads/2015/06/buy.gif)<-
->
+
+
+
+ [![Buy Now][2]][1]
+ [1]: http://sharethingz.com/woocommerce-simply-order-export-add-on/
+ [2]: http://sharethingz.com/wp-content/uploads/2015/06/buy.gif
