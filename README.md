@@ -83,6 +83,13 @@ To receive automatic update notification of this plugin, please go to *Woocommer
 * If email is configured on your website's server, check settings for incoming emails.
 * Contact by [sharethingz contact form](http://sharethingz.com/contact/) from your registered email, if your payment is successfully completed, zip file of plugin will be sent to you by email.
 
+**I cannot see order export settings under woocommerce=>settings**
+
+* Please confirm if latest versions of woocommerce and woocommerce simply order export plugin is installed.
+* Deactivate all plugins except woocommerce, woocommerce simply order export and woocommerce simply order export add-on plugins and switch to default wordpress theme (Twenty Fifteen), check if similar issue still persists or not?
+* If none of these helps, contact through [ShareThingz Contact Form](http://sharethingz.com/contact/)
+
+
 **Where I can get support regarding this plugin?**
 
 It is planned to setup support forum on [ShareThingz](http://sharethingz.com), till the time you can send your questions to [ShareThingz official facebook page](http://facebook.com/shrthngz). Please post your questions on wall, this will help other users to take reference of your questions.
