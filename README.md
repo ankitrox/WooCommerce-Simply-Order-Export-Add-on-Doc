@@ -92,7 +92,7 @@ To receive automatic update notification of this plugin, please go to *Woocommer
 
 **Where I can get support regarding this plugin?**
 
-It is planned to setup support forum on [ShareThingz](http://sharethingz.com), till the time you can send your questions to [ShareThingz official facebook page](http://facebook.com/shrthngz). Please post your questions on wall, this will help other users to take reference of your questions.
+When you purchase the add-on, an account is created for you on [ShareThing](http://sharethingz.com). You can use [ShareThingz Support Forum](http://sharethingz.com/support/forum/woocommerce-simply-order-export-addon/) for any queries after purchasing add-on. Pre-purchase queries can be posted through [ShareThingz Contact](http://sharethingz.com/contact)
 
 **Export button is not working**
 
