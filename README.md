@@ -48,6 +48,7 @@ This contains documentation for WooCommerce Simply Order Export Add-on. This can
 * Shipping City
 * Shipping State
 * Shipping Postcode
+* Shipping Method
 * Cart Discount
 * Cart Discount Tax
 * Order Tax
