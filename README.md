@@ -80,7 +80,7 @@ To receive automatic update notification of this plugin, please go to *Woocommer
 
 **When I click download link in email, index.php file is getting downloaded instead of plugin zip file. What should I do?**
 
-* This is happening because of [bug](https://github.com/easydigitaldownloads/Easy-Digital-Downloads/issues/3498){:target="_blank"} in Easy Digital Downloads plugin.
+* This is happening because of [bug](https://github.com/easydigitaldownloads/Easy-Digital-Downloads/issues/3498) in Easy Digital Downloads plugin.
 * You can simply rename index.php file to index.zip, and everything should work fine.
 * Alternatively, you can send message from [sharethingz contact form](http://sharethingz.com/contact/) reporting the issue. I will send you the zip file of plugin on your registered email which you used during plugin purchase.
 
