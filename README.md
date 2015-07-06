@@ -27,6 +27,7 @@ This contains documentation for WooCommerce Simply Order Export Add-on. This can
 
 * Payment Mehod
 * Order Currency
+* Customer Note
 * Prices Include Tax (yes/no)
 * Customer IP Address
 * Customer User Agent (Browser)
