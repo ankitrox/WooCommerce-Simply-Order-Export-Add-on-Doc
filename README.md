@@ -25,6 +25,7 @@ This contains documentation for WooCommerce Simply Order Export Add-on. This can
 
 #### <a name="fields-added"></a> Fields added by this plugin
 
+* Product SKU
 * Payment Mehod
 * Order Currency
 * Customer Note
