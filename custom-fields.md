@@ -16,3 +16,11 @@ table and not associated with order information, please enter the key manually (
 4. As mentioned in point number 2, there may be some fields which you want to export, but may not be present in postmeta table of
 wordpress. The fields which are present in postmeta table will get exported and added to the csv automatically behind the scene, but
 those fields which are not present in postmeta table would require some custom code in order to add them to the csv file.
+
+5. If the field is other than postmeta, you should check **not in meta** checkbox for that field.
+
+6. Once all the information is inputted, click on the "Save" button at the bottom of the settings page.
+
+7. Screenshot
+![custom fields]
+(http://sharethingz.com/wp-content/uploads/2015/12/custom-field-section.png)
