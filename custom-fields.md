@@ -24,3 +24,35 @@ those fields which are not present in postmeta table would require some custom c
 **7.** Please take a reference of this image:
 ![custom fields]
 (http://sharethingz.com/wp-content/uploads/2015/12/custom-field-section.png)
+
+### Adding field other than postmeta value
+
+**1.** Suppose the field key you have added is *_my_custom_field* in custom field section described above.
+
+**2.** Add following code to the theme's functions.php file
+
+```
+function wsoe_add_custom_field_to_export( &$csv_values, $order_details, $key, $fields, $item_id, $current_item ) {
+	
+	switch ( $key ) {
+		
+		case '_my_custom_field':
+			
+			/**
+			 * Your code will go here.
+			 * code will differ according to the requirement.
+			 */
+			
+			$value_to_add = 1; // This will be the intended value to export
+			array_push( $csv_values, $value_to_add );
+		break;
+		
+		default:
+		break;
+
+	}
+}
+add_action('wsoe_addon_add_to_csv', 'wsoe_add_custom_field_to_export', 10, 6 );
+```
+
+This should add and export the field in csv.
