@@ -31,7 +31,7 @@ those fields which are not present in postmeta table would require some custom c
 
 **2.** Add following code to the theme's functions.php file
 
-```
+```php
 function wsoe_add_custom_field_to_export( &$csv_values, $order_details, $key, $fields, $item_id, $current_item ) {
 	
 	switch ( $key ) {
