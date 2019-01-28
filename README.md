@@ -74,7 +74,7 @@ This contains documentation for WooCommerce Simply Order Export Add-on. This can
 #### <a name="auto-update"></a> Auto Update Notifications
 
 ![Auto update]
-(http://sharethingz.com/wp-content/uploads/2015/05/auto-update1.png)
+(http://sharethingz.com/wp-content/uploads/2019/01/screenshot-ank.test-2019.01.28-15-09-29.png)
 
 To receive automatic update notification of this plugin, please go to *Woocommerce => Settings => Order Export => Advanced options => Reorder Fields*, enter your email address which you used at the time of purchase of this plugin.
 
