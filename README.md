@@ -60,17 +60,6 @@ This contains documentation for WooCommerce Simply Order Export Add-on. This can
 * Coupon Codes
 * Coupon Discount Amount
 
-#### <a name="reorder-added"></a> Reordering of fields
-
-![Reordering of fields]
-(http://sharethingz.com/wp-content/uploads/edd/2015/05/Reorder-Fields.png)
-
-* Section for reordering is present at **Woocommerce => Settings => Order Export => Advanced options => Reorder Fields**
-* When no field is selected reorder section would not appear.
-* When new field is marked as checked in list, that field would get added in last in reordering queue.
-* When any field is marked as unchecked from list, that field would also get removed from reordering queue.
-* You can reorder the fields by dragging, once all the fields are reordered click "Save" button.
-
 #### <a name="auto-update"></a> Auto Update Notifications
 
 ![Auto update](http://sharethingz.com/wp-content/uploads/2019/01/screenshot-ank.test-2019.01.28-15-09-29.png)
